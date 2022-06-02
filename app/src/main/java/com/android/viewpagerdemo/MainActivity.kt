@@ -1,8 +1,7 @@
 package com.android.viewpagerdemo
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.viewpager.widget.ViewPager
+import androidx.appcompat.app.AppCompatActivity
 import androidx.viewpager2.widget.ViewPager2
 import com.android.viewpagerdemo.viewpager.Page1
 import com.android.viewpagerdemo.viewpager.Page2
